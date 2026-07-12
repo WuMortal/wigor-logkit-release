@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2026-07-12T08:08:37.631Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzhDZGZpelRYbXdXakIvL1VsNmpHZnhlVkFTc0U0c2pxbDBUMUVpVVZseVpDa05NcXoxd29WOUgyVzBnRXphVHkzam5aZEtzM0VGVm01KzB1Q2pxbEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzMjQ3CWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKQlZMTlBlWk9WWTVBSk9kcFluN09qMEI4dGZiZ2t2alJDOXVsUG1uNnZoTWFvckVFSitkZ09kbWtzdmhsWHJOZndMV29UTjM0OGlYQzNtay9YZ3NlQXc9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474211663"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzhDZGZpelRYbXdXakIvL1VsNmpHZnhlVkFTc0U0c2pxbDBUMUVpVVZseVpDa05NcXoxd29WOUgyVzBnRXphVHkzam5aZEtzM0VGVm01KzB1Q2pxbEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzMjQ3CWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKQlZMTlBlWk9WWTVBSk9kcFluN09qMEI4dGZiZ2t2alJDOXVsUG1uNnZoTWFvckVFSitkZ09kbWtzdmhsWHJOZndMV29UTjM0OGlYQzNtay9YZ3NlQXc9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474211663"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzFHWnhHc3hhVm9XTDFTZCsrMGUxd0kyL3dWZ09FYjdGemhWOXFqWGwzMElRcG9HMVR6cnV2NmhPVUtEYURXMXNJcWhNNDNZaXlVQ1JrZUo4cDgvQUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzMjkwCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKSFh1eGtxOHJCVE5CRjR6ZUMxUFdCckw0QzRtREFhenVBSDgzbFk4MnNrTnczYTJ3bUtEb1BTcUVKNnJTK3lERzR5bW1LanVMT2hpUzJOTjJKRE0rRHc9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474212438"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzFHWnhHc3hhVm9XTDFTZCsrMGUxd0kyL3dWZ09FYjdGemhWOXFqWGwzMElRcG9HMVR6cnV2NmhPVUtEYURXMXNJcWhNNDNZaXlVQ1JrZUo4cDgvQUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzMjkwCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKSFh1eGtxOHJCVE5CRjR6ZUMxUFdCckw0QzRtREFhenVBSDgzbFk4MnNrTnczYTJ3bUtEb1BTcUVKNnJTK3lERzR5bW1LanVMT2hpUzJOTjJKRE0rRHc9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474212438"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzRuZ284Q3VHa2Q2YXJJWTRqZmxLVVpSZG1TK2ZQWGMwMmlqUkR4ZmV2Ylp5NjVhd216NUdqQzVyZWo2cFdwcXcvelpoVWNRUC9LWC9JQTB6U0VFQmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzNzE0CWZpbGU65pel5b+X5Yqp5omLXzAuMS4wX3g2NC1zZXR1cC5leGUKbkcvZ2J0SkJDR1VCaGVKbnZ5SzVnYXVEYXVIVFNTVzVBMjhsRW5JQ2J6cEMrTTV6dzZ3UXlnTjA0ZzMxNTJQdXZIaTFoUXpNSUpqUGYvUHg1RW90QlE9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474217669"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzRuZ284Q3VHa2Q2YXJJWTRqZmxLVVpSZG1TK2ZQWGMwMmlqUkR4ZmV2Ylp5NjVhd216NUdqQzVyZWo2cFdwcXcvelpoVWNRUC9LWC9JQTB6U0VFQmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODQzNzE0CWZpbGU65pel5b+X5Yqp5omLXzAuMS4wX3g2NC1zZXR1cC5leGUKbkcvZ2J0SkJDR1VCaGVKbnZ5SzVnYXVEYXVIVFNTVzVBMjhsRW5JQ2J6cEMrTTV6dzZ3UXlnTjA0ZzMxNTJQdXZIaTFoUXpNSUpqUGYvUHg1RW90QlE9PQo=",
+      "url": "https://api.github.com/repos/WuMortal/wigor-logkit/releases/assets/474217669"
+    }
+  }
+}
