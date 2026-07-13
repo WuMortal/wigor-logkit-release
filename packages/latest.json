@@ -1,7 +1,7 @@
 {
   "version": "0.2.1",
   "notes": "1.修复通知检查cron，周 执行时间错误问题\n2.其他若干问题修复",
-  "pub_date": "2026-07-13 09:34:11",
+  "pub_date": "2026-07-13T09:34:11.640Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzdlY0xabTNHaGhreGl5M04zd2tsUW9KZ0hYQkFNR3ZKdDcxa3krck12QmpaMy91UWdlSHJzYko2RGs5STQ5Y0M1a0JlTGZQNFdibzQ0UXBuMWdHSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM0NjEyCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKQXlLN2h1cHlRSndRSkdTMUt5YWlQckN5cVdQdEMrZjBxWFRHdWJzd1k5R3BPcm45cklmRlRXSk9MbGNKOU9vUWpSeG1VK0RaTlA4dVpVYSt2c2lXQ2c9PQo=",
