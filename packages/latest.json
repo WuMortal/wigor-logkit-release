@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzdlY0xabTNHaGhreGl5M04zd2tsUW9KZ0hYQkFNR3ZKdDcxa3krck12QmpaMy91UWdlSHJzYko2RGs5STQ5Y0M1a0JlTGZQNFdibzQ0UXBuMWdHSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM0NjEyCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKQXlLN2h1cHlRSndRSkdTMUt5YWlQckN5cVdQdEMrZjBxWFRHdWJzd1k5R3BPcm45cklmRlRXSk9MbGNKOU9vUWpSeG1VK0RaTlA4dVpVYSt2c2lXQ2c9PQo=",
-      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_x64.dmg"
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzdlY0xabTNHaGhreGl5M04zd2tsUW9KZ0hYQkFNR3ZKdDcxa3krck12QmpaMy91UWdlSHJzYko2RGs5STQ5Y0M1a0JlTGZQNFdibzQ0UXBuMWdHSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM0NjEyCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKQXlLN2h1cHlRSndRSkdTMUt5YWlQckN5cVdQdEMrZjBxWFRHdWJzd1k5R3BPcm45cklmRlRXSk9MbGNKOU9vUWpSeG1VK0RaTlA4dVpVYSt2c2lXQ2c9PQo=",
-      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_x64.dmg"
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_x64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzV4eWx5TXpPVTdpSTlzV1RtdjIwZTAzMFhpTDU3QTBXT21hUE4vSlhXeVkzYmpRenQ4V3dpZ0Qzc1Z3ek02bWYvbnZrTWdvNHVwTEVsODhGUW03OFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM0NjAxCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKOTh5d2txUnJsZnk5MkduK2dPd3poOWx6UFpsR1ZvaXAvbXNGNnQ3YkRMUnBDeDduUk1xbmdrNElXNHJlQldMZGJBV0FYeWNBeEt2eHlQcTRHVUV6QXc9PQo=",
-      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_aarch64.dmg"
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_aarch64.app.tar.gz "
     },
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzV4eWx5TXpPVTdpSTlzV1RtdjIwZTAzMFhpTDU3QTBXT21hUE4vSlhXeVkzYmpRenQ4V3dpZ0Qzc1Z3ek02bWYvbnZrTWdvNHVwTEVsODhGUW03OFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM0NjAxCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKOTh5d2txUnJsZnk5MkduK2dPd3poOWx6UFpsR1ZvaXAvbXNGNnQ3YkRMUnBDeDduUk1xbmdrNElXNHJlQldMZGJBV0FYeWNBeEt2eHlQcTRHVUV6QXc9PQo=",
-      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_aarch64.dmg"
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v0.2.1/_0.2.1_aarch64.app.tar.gz "
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzVSMDlBVitSV21xTGprcmVIVFhWQ21RMnhUQVF6Mkl3OU95dVgxNS94dE9nWFp0TnN2ZlJCSy9EdmVtSFRXQXVBZzh1Vys3VXZDTTRqcEQwczFFYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTM1MjQ3CWZpbGU65pel5b+X5Yqp5omLXzAuMi4xX3g2NC1zZXR1cC5leGUKNE9BbnBmS2FjRGFpZ21mZjdiRzRFOGZwV1pqRHQ4ZjNnZFBaOXd1c00vVjhMdGhrUGVSM0RuNjNiVjV3aGxlL0FBR3p2R1ZiMFpxTGVidmFyWEZhQnc9PQo=",
