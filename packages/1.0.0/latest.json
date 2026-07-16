@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "notes": "1.新增：日志详情查看、日志新增/修改/删除\n2.优化：日志保存交互、更新下载进度显示、页面跳转路由、macOS 图标\n3.修复：macOS 更新无法自动重启、缺卡天数统计错误、声音提示无效",
+  "pub_date": "2026-07-16T09:32:07.042Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlU3lwM1o0bzFQcDVwSHo3RCtSUGJMakg3V1B5OVhvYlJhbXFrNjBNT0VQMmRZU3Vac3BySzRKeU5nN1Y1WGVFWkRPSFZnNEFaUUx0Y3ZxaFFCUEJSeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzNjA3CWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKaE5nMXphWkUzdW9td1lJSmZPNURCTWQ3b2pVMnJCZUg1L0xkNmJOdjh2N3JPN203TGRscmt4TlFvK1cyZEpzcXZSbXRPc1FES1c2WUpwMjlrd0RhQ2c9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlU3lwM1o0bzFQcDVwSHo3RCtSUGJMakg3V1B5OVhvYlJhbXFrNjBNT0VQMmRZU3Vac3BySzRKeU5nN1Y1WGVFWkRPSFZnNEFaUUx0Y3ZxaFFCUEJSeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzNjA3CWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKaE5nMXphWkUzdW9td1lJSmZPNURCTWQ3b2pVMnJCZUg1L0xkNmJOdjh2N3JPN203TGRscmt4TlFvK1cyZEpzcXZSbXRPc1FES1c2WUpwMjlrd0RhQ2c9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUy9mWEtPbVdCMy83T1FZcmJ5cnNGMjJzUDJLNzE1TWYxcCt6eFRXd3pQY1FBc3R3N2hWZ1FtMXM1K0hHZEF4d3VjalAwZmdWRUhvd3pmbVVObityT0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzNjczCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKS3phdTFCeW5qTEMwajVoZXA2ek1PcURHZHhYU0h0bWdacWR2Y0FJUnpWYlRMWTIza2FjbzhJSzc4WnFta0c0cGE0RGxEN3IxWEoxci9iMGpKaUNaQUE9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_aarch64.app.tar.gz "
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUy9mWEtPbVdCMy83T1FZcmJ5cnNGMjJzUDJLNzE1TWYxcCt6eFRXd3pQY1FBc3R3N2hWZ1FtMXM1K0hHZEF4d3VjalAwZmdWRUhvd3pmbVVObityT0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTkzNjczCWZpbGU65pel5b+X5Yqp5omLLmFwcC50YXIuZ3oKS3phdTFCeW5qTEMwajVoZXA2ek1PcURHZHhYU0h0bWdacWR2Y0FJUnpWYlRMWTIza2FjbzhJSzc4WnFta0c0cGE0RGxEN3IxWEoxci9iMGpKaUNaQUE9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_aarch64.app.tar.gz "
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzU5NUhTTjB3WnNCZlFmUEt2NmhLQWZnMEk2b2J3cVNwR3g5TDRlT1ZlU0ViTUIvakdBNndvdTlUVlNGYjUySVo4MmhzZUExWXpBMlhOQ1RjUldWT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk0MzIzCWZpbGU65pel5b+X5Yqp5omLXzEuMC4wX3g2NC1zZXR1cC5leGUKWVF1VVBsUGFZWEV5SkNkOEJ0TGlNbk5IMFFzeG9NSTNoMVV5NUxqa25YQlNEVUFFNkVnRUdoRmthbHU4eGJpdzFXVnB3cEdMZUZlYThWd0JoRkQwQlE9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODE5MW5UKzhlUzU5NUhTTjB3WnNCZlFmUEt2NmhLQWZnMEk2b2J3cVNwR3g5TDRlT1ZlU0ViTUIvakdBNndvdTlUVlNGYjUySVo4MmhzZUExWXpBMlhOQ1RjUldWT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk0MzIzCWZpbGU65pel5b+X5Yqp5omLXzEuMC4wX3g2NC1zZXR1cC5leGUKWVF1VVBsUGFZWEV5SkNkOEJ0TGlNbk5IMFFzeG9NSTNoMVV5NUxqa25YQlNEVUFFNkVnRUdoRmthbHU4eGJpdzFXVnB3cEdMZUZlYThWd0JoRkQwQlE9PQo=",
+      "url": "https://gh-proxy.com/https://github.com/WuMortal/wigor-logkit-release/releases/download/v1.0.0/_1.0.0_x64-setup.exe"
+    }
+  }
+}
